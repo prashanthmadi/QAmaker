@@ -1,5 +1,7 @@
 ---
-Topics PHP; Keywords log;logging;debug;troubleshoot;trouble shoot;error;diagnose; Question How do I enable PHP logging Answer
+Topics: PHP
+Keywords: log;logging;debug;troubleshoot;trouble shoot;error;diagnose;
+Question: How do I enable PHP logging Answer
 ---
 #How can I enable PHP logging to troubleshoot PHP issues?
 1. Log into KUDU website at https://<yourwebsitename>.scm.azurewebsites.net
